@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ClashRoyalBotV3:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ClashRoyalBotV3_jar</output-path>
+    <root id="archive" name="ClashRoyalBotV3.jar">
+      <element id="module-output" name="ClashRoyalBotV3" />
+    </root>
+  </artifact>
+</component>
